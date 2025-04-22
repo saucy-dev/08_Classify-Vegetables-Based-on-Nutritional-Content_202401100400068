@@ -32,9 +32,6 @@ Contributions are encouraged! You can:
 - Submit pull requests to add new features or enhance the existing code.
 - Report issues or suggest ideas to make this project better.
 
-## License
-This project is licensed under the MIT License, giving you freedom to use, modify, and distribute the code.
-
 ## References
 1. [Pandas Documentation](https://pandas.pydata.org/)
 2. [Scikit-learn Documentation](https://scikit-learn.org/stable/)
